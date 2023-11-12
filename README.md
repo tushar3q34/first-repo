@@ -3,6 +3,6 @@
 Description....
 Hello World.....
 
-## Subheadin
+## Subheading
 
 Hello again !!
